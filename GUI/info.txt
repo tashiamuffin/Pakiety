@@ -1,0 +1,2 @@
+Na początku plików są komentarze przy miejscach, 
+w których należy zmienić ścieżki do plików na swoje.
