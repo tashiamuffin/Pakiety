@@ -26,6 +26,7 @@ WARIANT PODSTAWOWY             |  WARIANT PONADPODSTAWOWY             |  WARIANT
 * **Kivy-Garden(0.1.4)** - biblioteka do&nbsp;wyświetlania wykresów;
 * **julia(0.5.5)** - biblioteka do&nbsp;interpretacji kodu napisanego w&nbsp;julii w&nbsp;pythonie;
 * **Julia** - używana do tworzenia symulacji;
-* **Plots(1.10.6)** - biblioteka do&nbsp;tworzenia wykresów;
-* **PyPlot(2.9.0)** - biblioteka do&nbsp;tworzenia wykresów;
+* **Plots(1.10.6)** - pakiet do&nbsp;tworzenia wykresów;
+* **PyPlot(2.9.0)** - pakiet do&nbsp;tworzenia wykresów;
+* **PyCall(1.92.3)** - pakiet do&nbsp;połączenia kodów w&nbsp;pythonie i&nbsp;julii;
 
